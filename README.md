@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# About the repository
+
+This chat app is created with React and Firebase database. I created this app to practice my Firebase knowledge. In the app, Firebase authentication was made with the Google account option. Therefore, to use the app, you have to signup for the app with your Google account. You see below how I signed up for the app with my different two Google accounts and had a short chat. After you had chat, you can sign out from the app. Your all chat is recorded in the Firebase collection.
+
+Here signing up and starting chat with Google account 1:
+
+![1](https://user-images.githubusercontent.com/73358116/149382904-7c2bb429-ace4-472a-9622-41fe0f24fa10.gif)
+
+
+Here signing up and responding the chat with Google account 2:
+
+![9d9e3a0a-3855-4188-b3d0-644ca362f6b0](https://user-images.githubusercontent.com/73358116/149383169-08069160-75ec-478c-8680-7f3e3200b0b6.gif)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -44,6 +56,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+To learn Firebase, check out the [Firebase documentation](https://firebase.google.com/docs).
 
 ### Code Splitting
 
