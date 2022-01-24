@@ -1,4 +1,5 @@
 # About the repository
+![npm](https://img.shields.io/badge/npm-8.1.2-green)
 
 This chat app is created with React and Firebase database. In the app, Firebase authentication was made with the Google account option. Therefore, to use the app, you have to signup for the app with your Google account. You see below how I signed up for the app with my different two Google accounts and had a short chat. After you had chat, you can sign out from the app. Your all chat is recorded in the Firebase collection.
 
